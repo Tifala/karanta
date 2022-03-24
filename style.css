@@ -1,0 +1,20 @@
+.photo {
+
+    background: linear-gradient(rgba(166, 179, 192, 0.7),rgba(158, 175, 190, 0.7)) , url(images5.jpg)center/cover no-repeat fixed;
+
+}  
+
+.mmm {
+    border-bottom: 2px  solid rgb(167, 221, 235) ;
+}
+
+
+.le:hover {
+   background-color: rgb(0, 119, 255);
+}
+.moc {
+height: 90px;
+width: 100px;
+margin: auto;
+margin-top: -40px;
+}
